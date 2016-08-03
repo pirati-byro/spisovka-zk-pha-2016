@@ -1,0 +1,7 @@
+*~
+*/private/*
+*.log
+*.LNK
+*.LCK
+.*
+!.gitattributes
