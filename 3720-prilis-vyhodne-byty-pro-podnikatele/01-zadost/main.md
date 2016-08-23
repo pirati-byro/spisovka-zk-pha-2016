@@ -25,7 +25,7 @@ Vážená paní ředitelko,
 
 zasílám Vám dvě nájemní smlouvy, které se týkají pronájmu bytů panu Milanu Stoppovi a rodině Jitky a Michala Kubíčkových. Pronájem bytů byl sjednán ve výši 60 Kč/m², tedy ve výši odpovídající sociálnímu bydlení. Milan Stoppa i Michal Kubíček jsou přitom dle výpisu z obchodního rejstříku podnikatelé a společníci několika fungujících společností. Pan Milan Stoppa například působí jako Senior Communication Consultant ve společnosti PLEON Impact. Je rovněž bývalým výkonným producentem Televize Prima TV. Pan Michal Kubíček dříve působil v řídící pozici ve společnosti Fidotech. 
 
-Žádám Vás, aby Odbor kontrolních činností prošetřil hospodaření s předmětnými nájemními byty, tj. zda nájem odpovídá tržní hladině pro nemovitosti v podobném stavu, a zaslal mi následnou zprávu o získaných zjištěních. 
+Zdvořile Vás proto žádám, aby Odbor kontrolních činností postupem v souladu s § 35 odst. 2 zákona č. 131/2000 Sb., o hlavním městě Praze, prošetřil hospodaření s předmětnými nájemními byty, tj. zda nájem odpovídá tržní hladině pro nemovitosti v podobném stavu, a zaslal mi následnou zprávu o získaných zjištěních. 
 
 S pozdravem
 
