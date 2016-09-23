@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o hlavním městě Praze a v souladu s § 15 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o poskytnutí následujících informací:
+žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb. o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
 
 * Zda-li Rada hlavního města Prahy podala forenzní audit na poslední vypsanou zakázku na výstavbu Ústřední čističky odpadních vod.
 * Pokud ano, žádám o výsledky uvedeného forenzního auditu.
