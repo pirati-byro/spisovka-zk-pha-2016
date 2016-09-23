@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-dne 6. 9. 2016 jsem jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o hlavním městě Praze a v souladu s § 15 odst. 3 písm. b) a c) zákona č. 131/2000 Sb. požádal o poskytnutí životopisu předsedy výboru pro územní rozvoj a územní plán ZHMP, Jana Slezáka. 
+dne 6. 9. 2016 jsem jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí životopisu předsedy výboru pro územní rozvoj a územní plán ZHMP, Jana Slezáka. 
 
 Konstatuji, že jsem požadovanou informaci neobdržel v zákonné patnáctidenní lhůtě tak, jak ji stanoví zákon č. 106/1999 Sb., o svobodném přístupu k informacím. Proto podávám v souladu s § 16a odst. 1 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím stížnost. Navrhuji, aby nadřízený správní orgán postupem podle § 16a odst. 6 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, povinnému subjektu přikázal ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídit.
 
