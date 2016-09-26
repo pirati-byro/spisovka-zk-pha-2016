@@ -11,12 +11,10 @@ our:
 your:
    role:    
    name:    
-      -     Hlavní město Praha
+      -     Rada hlavního města Prahy
    address:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
-   note:    "k rukám členům"
-      -     "Rady hlavního města Prahy"
 sendby:     mail
 style:      letter
 ---
