@@ -13,13 +13,15 @@ your:
    name:    
       -     Rada hlavního města Prahy
    address:
-      -     Mariánské náměstí 2,
-      -     110 00, Praha 1
+      -     Mariánské náměstí 2
+      -     110 00 Praha 1
+   note:
+      -     k rukám primátorky
 sendby:     mail
 style:      letter
 ---
 
-Vážení,
+Vážená paní primátorko,
 
 sděluji Vám tímto stanovisko zastupitelského klubu Pirátů, které členové klubu jednomyslně schválili na dnešním pravidelném jednání. Považujte ho prosím za připomínku/podnět ve smyslu zákona o hl. m. Praze.
 
