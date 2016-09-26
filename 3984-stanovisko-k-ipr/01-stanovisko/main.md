@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-sděluji Vám tímto stanovisko zastupitelského klubu Pirátů, které členové klubu schválili na dnešním pravidelném jednání.
+sděluji Vám tímto stanovisko zastupitelského klubu Pirátů, které členové klubu jednomyslně schválili na dnešním pravidelném jednání. Považujte ho prosím za připomínku/podnět ve smyslu zákona o hl. m. Praze.
 
 Zastupitelský klub Pirátů:
 
