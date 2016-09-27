@@ -23,18 +23,16 @@ reminder:   yes
 
 Vážená paní ředitelko,
 
-dne 23. srpna 2016 jsem Vám zaslal dvě nájemní smlouvy, které se týkaly pronájmu bytů panu Milanu Stoppovi a rodině Jitky a Michala Kubíčkových. Pronájem bytů byl sjednán ve výši 60 Kč/m², která odpovídá sociálnímu bydlení; oba pánové jsou nicméně dle výpisu z obchodního rejstříku podnikatelé a společníci několika fungujících společností. 
+dne 23. srpna 2016 jsem Vám zaslal dvě nájemní smlouvy, které se týkaly pronájmu bytů panu Milanu Stoppovi a rodině Jitky a Michala Kubíčkových. Obě smlouvy byly sjednány s nájemným ve výši 60 Kč/m², která odpovídá sociálnímu bydlení; oba nájemníci jsou nicméně dle dat z výpisu z obchodního rejstříku podnikatelé a společníci několika fungujících společností.
 
-Na svůj podnět jsem od Vás obdržel dne 20. září 2016 odpověď, ve které uvádíte, že nájemní smlouvy s panem Stoppou, reps. s panem Kubíčkem byly uzavřeny v roce 2002, resp. 2003. 
+Dne 20. září 2016 jsem od Vás obdržel odpověď na svůj podnět. V ní uvádíte, že obě nájemní smlouvy byly uzavřeny v letech 2002, resp. 2003, a že v oné době Hlavní město Praha neprověřovalo příjmy žadatelů o bydlení. Tak začalo činit již v roce 2005. Rád bych dodal, že pronájmy majetku ve vlastnictví hl. m. Prahy musí být uzavírány v tržní hladině, a pokud dochází k pronájmu za nižší částky, musí být zkušenost podložena relevantními důvody, které uvádí např. § 36  odst. 2 zákona č. 131/2000 Sb,. o hlavním městě Praze. Vzhledem k tomu, že došlo k opakovanému uzavření smluv v roce 2014, měl být nájem uzavřen podle této úpravy. 
 
-Rád bych dodal, že pronájmy majetku ve vlastnictví hl. m. Prahy musí být uzavírány v tržní hladině, a pokud dochází k pronájmu za nižší částky, musí být zkušenost podložena relevantními důvody, jako např. § 36  odst. 2 zákona č. 131/2000 Sb,. o hlavním městě Praze. Vzhledem k tomu, že došlo k opakovanému uzavření smluv v roce 2014, měl být nájem uzavřen podle této úpravy. 
-
-Proto vás v souladu se zákonem 106/1999 Sb., o svobodném přístupu k informacím, žádám o informace: 
+Proto vás v souladu se zákonem 106/1999 Sb., o svobodném přístupu k informacím, žádám o poskytnutí následujících informací: 
 
 1. Jaká je v oblasti, kde se oba byty nacházejí, tržní výše nájemného.
-2. Uvedení důvodu, proč byl nájem prodloužen v nižší ceně, než kterou stanoví tržní hladina. 
+2. Zdůvodnění, proč byl nájem prodloužen v nižší ceně, než kterou stanoví tržní hladina. 
 
-Pokud nebudete schopni uvést relevantní důvod, žádám Vás, abyste iniciovali nápravu. 
+Pokud nebudete schopni uvést relevantní důvod, žádám Vás, abyste iniciovali v oblasti obou nájemních smluv nápravu, tedy aby byly uzavřeny v tržní výši.
 
 S pozdravem
 
