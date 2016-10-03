@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4015
 your:
-   role:    povinný subjekt
+   role:    
    name:
       -     Magistrát hl. m. Prahy
    address:
