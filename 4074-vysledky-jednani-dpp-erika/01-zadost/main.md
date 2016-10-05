@@ -21,7 +21,7 @@ style:      letter
 
 Vážení, 
 
-žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb. o svobodném přístupu k informacím o poskytnutí následujících informací:
+žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, o poskytnutí následujících informací:
 
 1. Výstupy a závěry všech jednání, která se uskutečnila mezi Dopravním podnikem hl. m. Prahy, a.s. a společností GLOBDATA, resp. Erika od 1. září do 1. října 2016.
 2. Zda-li bylo na uvedených jednáních diskutováno o možnostech snížení provize u SMS jízdenek a u elektronického jízdného.
