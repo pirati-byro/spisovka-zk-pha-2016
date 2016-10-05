@@ -43,9 +43,5 @@ signature:
   - bytem Bořivojova 108, Praha 3
   - zastupitel hl. m. Prahy
 abbr:       jakub
-attachments:
-  - Dodatek č. 8 ke smlouvě o obchodní spolupráci 
-  - Vyjádření dopravního podniku z 15. 7. 2016 a přiložený zápis o jednání se společností GLOBDATA a.s.
-  - Výsledek analýzy Pirátů s přílohami
 ...
 
