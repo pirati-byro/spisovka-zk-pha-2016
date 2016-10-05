@@ -22,10 +22,10 @@ Vážení
 
 žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb. o svobodném přístupu k informacím o poskytnutí následujících informací:
 
-1. Seznam veškerých smluv, jejichž smluvní stranou je Česká televize, a které byly podepsány v období od 24. 6. 2016 do 8. 7. 2016. Žádám, aby požadovaný seznam obsahoval kromě identifikátoru a názvu smlouvy také předmět smlouvy, jméno a IČO protistrany, výši plnění a dobu, na jakou je smlouva uzavřena.
+1. Seznam veškerých smluv, jejichž smluvní stranou je Česká televize, a které byly podepsány v období od 16. 6. 2016 do 1. 7. 2016. Žádám, aby požadovaný seznam obsahoval kromě identifikátoru a názvu smlouvy také předmět smlouvy, jméno a IČO protistrany, výši plnění a dobu, na jakou je smlouva uzavřena.
 2. Plné texty všech předmětných smluv, které žádám v bodě č. 1. 
 
-Prosím o poskytnutí informace v elektronické podobě do datové schránky d25rp6p, případně na e-mailovou adresu ondrej.profant@pirati.cz. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě do datové schránky d25rp6p, případně na e-mailovou adresu ondrej.profant@pirati.cz. Žádám o poskytnutí smluv prostřednictvím jejich uveřejnění v národním registru smluv a následné odkázání na ně v souladu s § 6 odst. 1 zákona č. 106/1999 Sb., o svobodném přístupu k informacím. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
