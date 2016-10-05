@@ -9,9 +9,8 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    "Zk Pha #4071/2016"
 your:
-   role:    
-   name:    povinný subjekt
-      -     Česká televize
+   role:    povinný subjekt
+   name:    Česká televize
    address:
       -     Na Hřebenech II 1132/4
       -     147 00 Praha 4
