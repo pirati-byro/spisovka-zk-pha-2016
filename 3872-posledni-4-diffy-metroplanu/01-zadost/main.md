@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o hlavním městě Praze a v souladu s § 15 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o poskytnutí následujících informací:
+žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb. o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. b) a c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
 
 * Poslední čtyři verze Metropolitního plánu před jejich zveřejněním. Žádám rovněž o poskytnutí rozdílů mezi poslední a předposlední verzí, mezi předposlední a 3. poslední verzí a a rozdílů mezi 3. a 4. verzí Metropolitního plánu. Rozdíly poskytněte prosím jako [diffy](https://cs.wikipedia.org/wiki/Diff), tj. porovnání změn mezi dvěma vždy sousedními verzemi Metropolitního plánu. 
 
