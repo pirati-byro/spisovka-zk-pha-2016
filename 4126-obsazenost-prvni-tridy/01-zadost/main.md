@@ -27,6 +27,8 @@ v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a 
 * Jaká byla v roce 2015 procentuální obsazenost všech oddílů druhé třídy ve vlacích linek Esko.
 * Zda-li došlo k nárůstu obsazenosti vlaků link Esko (bez ohledu na první, nebo druhou třídu) za období posledních pěti let ve vlacích linek Esko, a o jaký procentuální nárůst v porovnání s rokem 2011 se jednalo.
 
+Pokud uvedené informace o procentuální obsazenosti vlaků nemáte k dispozici, poskytněte mi alespoň informace o počtu prodaných jízdenek na první třídu.
+
 Prosím o poskytnutí informace přímo, a to do datové schránky (na adresu xwfwgha), či na e-mailovou adresu uvedené v patičce této zprávy. Předem děkuji za Vaši vstřícnost.
 
 ---
