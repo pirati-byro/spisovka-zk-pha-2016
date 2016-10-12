@@ -11,10 +11,10 @@ our:
 your:
    role:    povinný subjekt
    name:
-      -     České dráhy, a.s.
+      -     Regionální organizátor Pražské integrované dopravy.
    address:
-      -     Nábřeží Ludvíka Svobody 1222
-      -     Praha 1, 110 15
+      -     Rytířská 406/10
+      -     Praha 1, 110 10
 sendby:     ds
 style:      letter
 ---
