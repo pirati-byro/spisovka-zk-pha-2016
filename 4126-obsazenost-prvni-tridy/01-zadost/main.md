@@ -21,7 +21,7 @@ style:      letter
 
 Vážení 
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, Vás žádám o poskytnutí následujících informací: 
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím Vás žádám o poskytnutí následujících informací: 
 
 * Jaká byla v roce 2014 procentuální obsazenost všech oddílů první třídy ve vlacích linek Esko (tj. pražských příměstských linek)
 * Jaká byla v roce 2015 procentuální obsazenost všech oddílů druhé třídy ve vlacích linek Esko.
@@ -36,6 +36,5 @@ signature:
   - Adam Zábranský
   - nar. 28. 12. 1993
   - bytem Zbynická 6, 153 00 Praha 16
-  - zastupitel hl. m. Prahy
 abbr:       adam
 ...
