@@ -11,7 +11,7 @@
 | 18. 10. | RHMP       | Schvaluje materiál o 33 stranách A4, který je kamenem úrazu           |
 | 18. 10. | Výbor SC   | Výbor je informován velmi strohým materiálem. Nejsou v něm obsaženy informace z Rady |
 
-### Náklady dle smlouvz
+### Náklady dle smlouvy
 
 | Co                    | Ročně (Kč)   | Měsíčně (Kč) |
 |-----------------------|-------------:|-------------:|
@@ -21,7 +21,23 @@
 | **Suma pro OICT**     |  62 500 000  |    5 208 333 |
 
 Náklady režie pro 300 milionů KČ jsou 62,5 milionů Kč.
-To znamená režie více jak 20 % (20,83%), cože je víc jak pětina nákladů.
+To znamená režie více jak jedna pětina (20,83%)!
+
+Těch 6,5 % se dokonce počítá i z nákladů OICT!
+
+### Nesrovnalosti informování komise ICT a RHMP
+
+V tisku Rady se uvádí:
+
+> Mateiál pro zřízení Projektové kanceláře Smart Cities v gesci Operátora ICT, a.s.i Příkazní smlouva byla dne 3. 10. 2016 posouzena Komisí RHMP pro ICT s tímto stanoviskem:
+>
+> Komise RHMP pro ICT nemá k předloženému návrhu tisku R-23482 připomínky a doporučuje tisk předložit na jednání Rady hl. m- Prahy
+
+Zatímco v zápisu z komise je:
+
+> Komise souhlas9 s p5edlo6en7m n8vrhem na zřízení projektové kanceláře Smart Cities a doporučuje ho předložit ke schvální Radou HMP.
+
+Tajemník komise L. Kendík 19. 10. potvrdil, že jediným materiálem zaslaným komisi byla část důvodové zprávy.
 
 ## Komentář
 
@@ -44,3 +60,24 @@ Avšak tento směr se nejeví realizovatelný. Operátor ICT může být dobrou 
 Schvaluje samozřejmě Rada HMP, popřípadě zastupitelstvo HMP.
 
 ### Komentář Ondřej Profant
+
+Jako člen komise ICT bych se ostře distancuji od projektu projektové kanceláře Smart City v rámci Operátora ICT ve formě v jaké ho 18. 10. schválila Rada HMP.
+
+Důvody jsou následující:
+
+1. **Komise byla uvedena** v omyl velmi neúplným materiálem. Výsledný materiál pro Radu je 33x delší. A jsou v něm zcela nové skutečnosti.
+2. **Rada byla mylně informována**, že komise schválila tisk rady. Nic takového se nestalo. Komise viděla jen malý fragment. Tisk dokonce špatně cituje usnesení komise.
+3. Výbor pro Smart City byl též neúplně informován. Ten dokonce zasedal až poté, co Rada materiál schválila.
+4. V tisku Rady se argumentuje:  
+
+  > Projekt Lítačka je dnes de facto největším pražským Smart Cities projektem.
+
+  Toto tvrzení ukazuje, že **autor tisku nevěděl**, co to znamená smart city, jelikož projekt Lítačky nevykazuje žádné z klíčových znaků smart projektu.
+5. V rámci smlouvy je Operátorovi ICT přiřknuta zcela **nepřiměřeně vysoká odměna**. Režie rozdělení peněz dostahuje až **jedné pětiny rozdělovaných prostředků**. To je způsobeno převážně kombinací 2 druhů odměn. Fixní a variabilní.
+6. Variabilní odměna je nastavena pomocí metody: "**Čím víc utratím, tím víc dostanu**". Tento způsob odměňování do veřejné správy nepatří. Přímo ve smlouvě je:
+  > odměna Operátora = náklady operátora + náklady dodavatelů * 1,065
+
+  a k tomu ještě náleží fixních 5 208 333 Kč měsíčně.
+7. I když dochází k takovémuto nárustu financí v Operátorovi ICT nevznikají nové kontrolní mechanismy.
+
+*Ondřej Profant, 20. 10. 2016*
