@@ -61,7 +61,8 @@ Schvaluje samozřejmě Rada HMP, popřípadě zastupitelstvo HMP.
 
 ### Komentář Ondřej Profant
 
-Jako člen komise ICT bych se ostře distancuji od projektu projektové kanceláře Smart City v rámci Operátora ICT ve formě v jaké ho 18. 10. schválila Rada HMP.
+Jako člen komise ICT bych se ostře distancuji od záměru projektové kanceláře Smart City v rámci Operátora ICT
+ ve formě v jaké ho 18. 10. schválila Rada HMP.
 
 Důvody jsou následující:
 
@@ -78,6 +79,23 @@ Důvody jsou následující:
   > odměna Operátora = náklady operátora + náklady dodavatelů * 1,065
 
   a k tomu ještě náleží fixních 5 208 333 Kč měsíčně.
-7. I když dochází k takovémuto nárustu financí v Operátorovi ICT nevznikají nové kontrolní mechanismy.
+7. I když dochází k takovémuto nárustu financí v Operátorovi ICT **nevznikají nové kontrolní mechanismy**.
+8. **Není** zde zakomponováno **připomínkování** dotčených organů města.
+
+Ještě rekapituluji dva hlavní problémy:
+
+- **Komise a Rada byly špatně informovány**
+- **Režie rozdělení prostředků je jedna pětina**
+
+Paní primátorko, tímto se vám a zbytku Rady, podařilo navázat na historii OpenCard - v špatném.
+
+Otázky:
+
+- Je úmyslem mít 1/5 nákladů na režii?
+- Je úmyslem nezavést silnější principy veřejné kontroly?
+
+Situaci budu i nadále řešit.
+- 
+
 
 *Ondřej Profant, 20. 10. 2016*
