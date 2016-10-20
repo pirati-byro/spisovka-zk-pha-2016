@@ -13,15 +13,16 @@
 
 ### Náklady dle smlouvy
 
-| Co                    | Ročně (Kč)   | Měsíčně (Kč) |
-|-----------------------|-------------:|-------------:|
-| Realizace projektů    | 300 000 000  |            - |
-| - z toho OICT (6,5 %) |  19 500 000  |    1 625 000 |
-| Fixní náklady         |  43 000 000  |    3 583 333 |
-| **Suma pro OICT**     |  62 500 000  |    5 208 333 |
+| Položka                        | Ročně (Kč)   | Měsíčně (Kč) |
+|--------------------------------|-------------:|-------------:|
+| Realizace projektů             | 300 000 000  |            - |
+| - z toho OICT (6,5 %)          |  19 500 000  |    1 625 000 |
+| Fixní náklady                  |  43 000 000  |    3 583 333 |
+| **Suma pro OICT**              |  62 500 000  |    5 208 333 |
+| **Suma viceletá (2 roky)**     | 691 500 000  |            - |
 
 Náklady režie pro 300 milionů KČ jsou 62,5 milionů Kč.
-To znamená režie více jak jedna pětina (20,83%)!
+To znamená režie více jak **jedna pětina (20,83%)!**
 
 Těch 6,5 % se dokonce počítá i z nákladů OICT!
 
