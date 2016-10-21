@@ -7,7 +7,7 @@ author:
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    "Zk Pha #4225/2016"
+   sign:    "Zk Pha #4227/2016"
 your:
    role:    povinný subjekt
    name:    Městská část Praha 20
