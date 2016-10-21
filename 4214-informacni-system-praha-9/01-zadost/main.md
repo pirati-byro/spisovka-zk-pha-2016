@@ -7,13 +7,13 @@ author:
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    "Zk Pha #4213/2016"
+   sign:    "Zk Pha #4214/2016"
 your:
    role:    povinný subjekt
-   name:    Městská část Praha 8
+   name:    Městská část Praha 9
    address:
-      -     Zenklova 1/35
-      -     180 00, Praha 8
+      -     Sokolovská 14/324
+      -     190 00, Praha 9
 sendby:     mail
 style:      letter
 ---
