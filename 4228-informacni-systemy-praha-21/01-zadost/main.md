@@ -12,7 +12,7 @@ your:
    role:    povinný subjekt
    name:    Městská část Praha 21
    address:
-      -     Staroklánovická 260, 190 16
+      -     Staroklánovická 260
       -     190 16, Praha 21
 sendby:     mail
 style:      letter
