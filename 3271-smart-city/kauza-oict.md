@@ -31,7 +31,7 @@ geometry:
 | **Suma viceletá (2 roky)**     | 691 500 000  |            - |
 
 Náklady režie pro 300 milionů Kč/ročně jsou 62,5 milionů Kč/ročně.
-To znamená režie je více jak **jedna pětina (20,83%) prostředků!**
+To znamená režie je více jak **jedna pětina (20,83%) rozdělovaných prostředků!**
 
 ### Nesrovnalosti informování komise ICT a RHMP
 
