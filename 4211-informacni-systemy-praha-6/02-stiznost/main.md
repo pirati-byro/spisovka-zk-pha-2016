@@ -32,7 +32,7 @@ dne 21. 10. 2016 jsem vás v souladu s § 51 odst. 3 písm. b) zákona č. 131/2
 
 5. Pro které další oblasti činnosti používáte informační systémy a jaké? Uveďte název produktu a dodavatele.
 
-Konstatuji, že jsem v zákonné patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, neobdržel odpověď. Podávám proto v souladu s § 16a odst. 1 písm. b) stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a) odst. 6 písm. b) povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
+Konstatuji, že jsem v zákonné patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, neobdržel odpověď. Podávám proto v souladu s § 16a odst. 1 písm. b) zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a) odst. 6 písm. b) povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
 Prosím o poskytnutí informace v elektronické podobě e-mailem. Dokumenty poskytněte v elektronické strojově čitelné a upravitelné podobě (např. formáty ODT, DOCX, XLS, nikoliv PDF, obrázky apod.), kdykoliv je to možné. Předem děkuji za Vaši vstřícnost.
 

@@ -7,20 +7,20 @@ author:
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    "Zk Pha #4210/2016"
+   sign:    "Zk Pha #4218/2016"
 your:
    role:    povinný subjekt
-   name:    Městská část Praha 5
+   name:    Městská část Praha 12
    address:
-      -     Nám. 14. října 1381/4
-      -     150 00 Praha 5
+      -     Písková 830/25
+      -     143 00 Praha 4 – Modřany
 sendby:     mail
 style:      letter
 ---
 
 Vážení,
 
-dne 21. 10. 2016 jsem v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, vás požádal o následující informace:
+dne 21. 10. 2016 jsem vás v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, požádal o následující informace:
 
 1. Jaké informační systémy ve smyslu § 2 zákona 365/2000 Sb., o informačních systémech veřejné správy používáte v oblasti zpracování ekonomických informací (účetnictví, evidence majetku, atd.)? Uveďte název produktu a dodavatele.
 
