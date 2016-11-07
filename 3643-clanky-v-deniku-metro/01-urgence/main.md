@@ -16,8 +16,8 @@ your:
       -     Mariánské náměstí 2
       -     110 00 Praha 1
    note:
-      -     k rukám náměstka prim. hl. m. Prahy
-      -     Petra Dolínka
+      -     k rukám náměstku prim. hl. m. Prahy
+      -     Petru Dolínkovi
 reminder:   true
 sendby:     ds
 style:      letter
