@@ -22,7 +22,7 @@ sendby:     ds
 style:      letter
 ---
 
-Vážení 
+Vážený pane řediteli, 
 
 dne 17. října 2016 jsem v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, požádal o poskytnutí následujících informací: 
 
