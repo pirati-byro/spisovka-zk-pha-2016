@@ -1,5 +1,5 @@
 ---
-title:      Stížnost na vyřizování žádosti o informace
+title:      Odvolání proti rozhodnutí o odepření informací
 author:
    name:    Adam Zábranský
    phone:   +420 721 006 868
