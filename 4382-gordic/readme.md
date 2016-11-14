@@ -30,7 +30,7 @@ Obvykle se rozlišuje velký Ginis (ten využívá MHMP) a malý Ginis (ten vyu�
 | 10.  9. 2015 | Ondřej Profant [navrhuje][navrh-zhmp] na ZHMP, ať se uloží termín (návrh neprošel)      |
 |  podzim 2015 | Jakub M. a Ondřej P. předkládají [materiál][maly-ginis] na Komisi ICT                   |
 | 23.  3. 2016 | Rada schvaluje další JŘBÚ na Ginis                                                      |
-
+| 15. 11. 2016 | Rada dostává R-23892, který informuje o zavedení partnerské sítě                        |
 
 
 [navrh-zhmp]: https://github.com/pirati-cz/KlubPraha/blob/bcc6a3f6cf4664a97d47355717e52cb678493a51/spisy/2015/137-zhmp-jes/main.md
