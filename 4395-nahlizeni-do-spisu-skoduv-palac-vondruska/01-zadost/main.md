@@ -10,14 +10,10 @@ our:
    sign:    ZK Pha \#4395
 your:
    role:    
-   name:
-      -     Vrchní státní zastupitelství v Olomouci
-      -     17. listopadu 909/44
-      -     771 11 Olomouc
-   sign:    
-     ds:
-sendby:     mail
-reminder:   yes
+   name:    Vrchní státní zastupitelství v Olomouci
+   address:
+      -     "17. listopadu 909"
+      -     771 11, Olomouc
 style:      letter
 ---
 
@@ -35,4 +31,3 @@ signature:
 abbr:       jakub
 attachments: Podnět advokáta JUDr. Jana Vondráčka ze dne 15. srpna 2016
 ...
-
