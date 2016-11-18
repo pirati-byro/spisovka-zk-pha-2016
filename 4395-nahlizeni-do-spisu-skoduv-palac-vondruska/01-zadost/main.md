@@ -12,7 +12,7 @@ your:
    role:    
    name:    Vrchní státní zastupitelství v Olomouci
    address:
-      -     "17. listopadu 909"
+      -     17 listopadu 909
       -     771 11, Olomouc
 style:      letter
 ---
