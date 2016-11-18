@@ -9,13 +9,15 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4395
 your:
+   role:    
    name:
       -     Vrchní státní zastupitelství v Olomouci
       -     17. listopadu 909/44
       -     771 11 Olomouc
    sign:    
      ds:
-sendby:     ds
+sendby:     mail
+reminder:   yes
 style:      letter
 ---
 
