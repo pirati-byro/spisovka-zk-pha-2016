@@ -7,7 +7,7 @@ author:
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    "Zk Pha #4391/2016"
+   sign:    "Zk\ Pha #4391/2016"
 your:
    role:    
    name:    Rada hlavního města Prahy
@@ -20,9 +20,9 @@ style:      letter
 
 Vážení členové Rady hlavního města Prahy,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, vám podávám jako zastupitel hl. m. Prahy, podnět následujícího obsahu:
+v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, vám za klub Pirátů podávám jako zastupitel hl. m. Prahy, podnět následujícího obsahu:
 
-Vyzývám Radu hlavního města Prahy, aby urychleně apelovala na společnost ČEZ, a.s. ve věci prodeje sídliště Písnice. Navrhuji, aby Rada hlavního města Praha důrazně vyzvala společnost ČEZ, a.s. k tomu, aby sídliště Písnice bylo rozprodáno nikoliv jako celek developerovi, nýbrž po jednotlivých bytech, a to jednotlivým obyvatelům bytů, případně družstvům. Pokud toto nebude možné, žádám tímto Radu hlavního města Prahy, aby zahájila odkup sídliště do vlastnictví hl. m. Prahy. Na nabídkovou cenu bytů v sídlišti je třeba vyhotovit revizní posudek. Byty by následně měly být po odkupu do vlastnictví hl. m. Prahy privatizovány družstvům za ceny odvozené z kupní ceny sídliště snížené o cenu veřejných prostranství.
+> Klub Pirátů vyzývá Radu hl. m. Prahy, aby urychleně apelovala na společnost ČEZ, a.s., aby ČEZ neprodával sídliště Libuš developperovi jako celek, ale aby umožnil prodej nájemníkům nebo jejich družstvům. Pokud to nebude možné, vyzývá Radu hl. m. Prahy, aby zahájila jednání o odkupu sídliště Libuš do vlastnictví hl. m. Prahy. Na nabídkovou cenu je třeba vyhotovit revizní posudek. Byty by následně měly být privatizovány družstvům za ceny odvozené z kupní ceny sídliště snížené o cenu veřejných prostranství.
 
 Žádám o zaslání odpovědi e-mailem na adresu ondrej.profant@pirati.cz, nebo do datové schránky.
 
