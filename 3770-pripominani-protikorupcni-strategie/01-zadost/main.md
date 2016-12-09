@@ -15,7 +15,8 @@ your:
    address:
       -     Mariánské nám. 2
       -     110 00 Praha 1
-   note:    Adriana Krnáčová<br/>
+   note:    
+      -     Adriana Krnáčová
       -     primátorka hl. m. Prahy
 reminder:   true
 sendby:     ds
