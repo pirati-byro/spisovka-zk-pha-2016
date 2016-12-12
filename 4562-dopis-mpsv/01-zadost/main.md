@@ -1,5 +1,5 @@
 ---
-title:      Otevřený dopis Pirátů ke regulaci home office
+title:      Otevřený dopis Pirátů k regulaci home office
 author:
    name:    Ivan Bartoš
    phone:   +603 415 378
