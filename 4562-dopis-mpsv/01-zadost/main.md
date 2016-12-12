@@ -15,7 +15,7 @@ your:
       -     128 00 Praha 2-Nové Město
    note:
       -     k rukám paní ministryně
-      -     Mgr. Michaely Marxové
+      -     Mgr. Michaely Marksové
 sendby:     mail
 style:      letter
 ---
