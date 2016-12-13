@@ -28,7 +28,7 @@ dne 14. listopadu 2016 jsem zaslal v souladu s ust. § 51 odst. 3 písm. b) zák
 
 Žádal jsem rovněž, aby poskytnuté platby za správu bytových, resp. nebytových prostor, mi byly poskytnuty odděleně.
 
-Konstatuji, že povinný subjekt, kterým je v tomto případě hlavní město Praha, mi poždaované informace neposkytl v zákonné lhůtě. Po jejím uplynutím jsem uskutečnil prostřednictvím svého asistenta Jana Loužka telefonickou urgenci, jejím prostřednictvím jsem odpověď na svoji žádost nezískal. Podávám proto v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený orgán postupem dle § 16a odst. 6 písm. b) povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
+Konstatuji, že povinný subjekt, kterým je v tomto případě hlavní město Praha, mi požadované informace neposkytl v zákonné lhůtě. Po jejím uplynutím jsem uskutečnil prostřednictvím svého asistenta Jana Loužka telefonickou urgenci, jejím prostřednictvím jsem odpověď na svoji žádost nezískal. Podávám proto v souladu s ust. § 16a odst. 1 písm. b) InfZ stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený orgán postupem dle § 16a odst. 6 písm. b) povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
 Předem děkuji za odpověď.
 
