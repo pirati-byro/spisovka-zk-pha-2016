@@ -7,7 +7,7 @@ author:
    mail:    ondrej.profant@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha #4479
+   sign:    ZK Pha \#4479
 your:
    role:    Povinný subjekt
    name:    
