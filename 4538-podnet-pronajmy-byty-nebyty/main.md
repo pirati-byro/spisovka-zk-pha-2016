@@ -9,9 +9,13 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4538
 your:
-   role:    Rada hl. m. Praha
+   role:    Rada hl. m. Prahy
+      -     Mariánské nám. 2
+      -     110 00, Praha 1
    name:    
-      -     k rukám radního Lacka a radního Procházky
+      -     k rukám členů RHMP: 
+      -     Ing. Radka Lacka
+      -     Ing. Karla Grabeina Procházky
 sendby:     mail
 style:      letter
 ---
