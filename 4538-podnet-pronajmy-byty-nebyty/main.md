@@ -10,8 +10,9 @@ our:
    sign:    ZK Pha \#4538
 your:
    role:    Povinný subjekt
-   address: 
+   name: 
       -     Rada hl. m. Prahy
+   address:
       -     Mariánské nám. 2
       -     110 00, Praha 1
    name:    
