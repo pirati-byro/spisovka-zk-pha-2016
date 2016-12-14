@@ -9,7 +9,9 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4538
 your:
-   role:    Rada hl. m. Prahy
+   role:    Povinný subjekt
+   address: 
+      -     Rada hl. m. Prahy
       -     Mariánské nám. 2
       -     110 00, Praha 1
    name:    
