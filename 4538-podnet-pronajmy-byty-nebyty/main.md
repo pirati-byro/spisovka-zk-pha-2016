@@ -16,7 +16,7 @@ your:
       -     Mariánské nám. 2
       -     110 00, Praha 1
    note:    
-      -     k rukám členů RHMP: 
+      -     "k rukám členů RHMP:" 
       -     Ing. Radka Lacka
       -     Ing. Karla Grabeina Procházky
 sendby:     mail
