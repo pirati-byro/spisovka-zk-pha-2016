@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4538
 your:
-   role:    Povinný subjekt
+   role:    
    name: 
       -     Rada hl. m. Prahy
    address:
@@ -47,7 +47,6 @@ S pozdravem
 ---
 signature:
   - Adam Zábranský
-  - nar. 28. 12. 1993
-  - bytem Zbynická 6, 153 00 Praha 16
+  - zastupitel hl. m. Prahy
 abbr:       adam
 ...
