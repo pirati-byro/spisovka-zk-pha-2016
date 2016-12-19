@@ -26,7 +26,7 @@ Vážený pane děkane,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím (dále jen „InfZ“), žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu –  o poskytnutí následujících informací:
 
-1. doklad o absolvování, uznání či jiném splnění jednotlivých studijních povinností, které stanovily předpisy dle bodu 1, pana JUDr. Romana Janouška spolu s uvedením data splnění, způsobu splnění a osob zkoušejících, případně uvedení těchto údajů o uznané studijní povinnosti,
+1. doklad o absolvování, uznání či jiném splnění jednotlivých studijních povinností, které stanovily předpisy (studijní a zkušební řád, studijní plán a další vnitřní předpisy), pana JUDr. Romana Janouška spolu s uvedením data splnění, způsobu splnění a osob zkoušejících, případně uvedení těchto údajů o uznané studijní povinnosti,
 2. text magisterské a rigorózní práce pana JUDr. Romana Janouška, přičemž žádost v tomto bodě výslovně specifikuji tak, že informaci žádám od knihovny (jako součásti povinného subjektu), kde je práce uchována, tak, aby mi mohla být poskytnuta v souladu se směrnicí o opakovaném užití informací veřejného sektoru (viz níže), a to pokud mi nemůže být text práce zaslán v elektronické podobě, dále žádám po povinném subjektu posudky při obhajobě těchto prací a o zápis o průběhu příslušných obhajob.
 
 Rád bych k tomu za účelem vstřícného a bezproblémového vyřízení mé žádosti v souladu se zákonem doplnil následující informace:
