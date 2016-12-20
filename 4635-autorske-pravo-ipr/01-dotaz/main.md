@@ -1,5 +1,5 @@
 ---
-title:      Dotaz
+title:      Dotaz k autorskoprávnímu statusu metropolitního plánu
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -22,7 +22,7 @@ style:      letter
 
 Vážení,
 
-v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám vznáším dotaz následujícího obsahu:
+v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, vznáším dotaz následujícího obsahu:
 
 1. Jaký je autorskoprávní status aktuálně zpracovávaného metropolitního plánu, zda-li je zaměstnaneckým dílem a zda-li má Institut plánování a rozvoje, nebo hl. m. Praha všechna majetková práva s ním nakládat, kopírovat jej a šířit a realizovat stavby podle plánu jako urbanistické dílo.
 
