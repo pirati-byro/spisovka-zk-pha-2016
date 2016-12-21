@@ -21,13 +21,11 @@ style:      letter
 
 Vážení,
 
-od 1. července 2016 nabyl účinnosti zákon č. 340/2016 Sb., o registru smluv (dále jen „Zákon“). Ten nařizuje územním samosprávným celkům a jejich městským částem, příspěvkovým organizacím územních samosprávných celků a právnickým osobám, ve kterých má územní samosprávný celek většinovou majetkovou účast, povinnost zveřejňovat smlouvy v celostátním registru smluv (§ 2 odst. 1, písm. b), h) a n). 
+od 1. července 2016 nabyl účinnosti zákon č. 340/2016 Sb., o registru smluv (dále jen „zákon o registru smluv“). Ten nařizuje územním samosprávným celkům a jejich městským částem, příspěvkovým organizacím územních samosprávných celků a právnickým osobám, ve kterých má územní samosprávný celek většinovou majetkovou účast, povinnost zveřejňovat smlouvy v celostátním registru smluv (§ 2 odst. 1, písm. b), h) a n)). 
 
-Zákon je účinný již téměř půl roku. Od 1. ledna 2017 však vstoupí v účinnost rovněž i jeho další ustanovení, a to v § 6 a § 7. Ta mimo jiné stanoví, že **smlouva nabývá platnosti dnem uveřejnění v registru smluv**. Každá smlouva, která tedy není uveřejněna v registru smluv, bude potom **automaticky zrušena do tří měsíců.** (§ 7 odst 1 Zákona). Pro samosprávy a městské spolenčnosti z toho plyne povinnost zveřejňování všech smluv v registru, a to jen s takovými výjimkami, které Zákon připouští.
+Vzhledem k tomu, jaká doba uplynula od účinnosti zákona, jsem překvapen, že z vaší strany stále není dodržován. Prosím o urychlené napravení tohoto pochybení. Pevně věřím, že se vám podaří povinnostem, které zákon ukládá, dostát, a to tak, jak tomu je v případě většiny veřejných institucí, které své smlouvy v celostátním registru úspěšně publikují.
 
-Vzhledem k tomu, že v období od 1. července 2016 až dosud nebyla z Vaší strany ustanovení Zákona naplňována se domnívám, že v současné době je **nejvyšší čas k tomu, aby byla z Vaší strany zjednána náprava**. Vaši pracovníci musí být urychleně informováni i proškoleni k tomu, jak uveřejňovat smlouvy v Registru smluv. Pokračování současné praxe může vést k zneplatnění Vámi uzavíraných smluv a ohrožení chodu Vaší instituce. 
-
-Pevně věřím, že se Vám podaří povinnostem, které Zákon ukládá, dostát, a to tak, jak tomu je v případě většiny veřejných institucí, které své smlouvy v celostátním registru úspěšně publikují. 
+Žádám vás, abyste mi na tento podnět dle § 51 odst. 3 písm. b) zákona o hl. m. Praze do 30 dnů odpověděli.
 
 S pozdravem 
 
