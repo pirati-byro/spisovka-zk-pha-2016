@@ -20,7 +20,7 @@ style:      letter
 
 Vážení,
 
-dne 4. 12. 2016 jsem Vás v souladu s § 51 odst. 3 písm. b) zákona č. 131/2000 Sb., o hlavním městě Praze, resp. zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, požádal o poskytnutí nájemních smluv týkajících se území tzv. Smetanova poloostrova. Jednalo se o naplaveninu, která se nachází mezi mostem Legií a Karlovým mostem; přes ulici od Krannerovy kašny. Konkrétně jsem měl na mysli například smlouvu s Pražskou paroplavební společností, smlouvu s restaurací, která se na poloostrově nachází, a pod.
+dne 4. 12. 2016 jsem Vás v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, požádal o poskytnutí nájemních smluv týkajících se území tzv. Smetanova poloostrova. Jednalo se o naplaveninu, která se nachází mezi mostem Legií a Karlovým mostem; přes ulici od Krannerovy kašny. Konkrétně jsem měl na mysli například smlouvu s Pražskou paroplavební společností, smlouvu s restaurací, která se na poloostrově nachází, a pod.
 
 Konstatuji, že jsem v zákonné patnáctidenní lhůtě, kterou uvádí zákon č. 106/1999 Sb., o svobodném přístupu k informacím, neobdržel odpověď. Podávám proto v souladu s § 16a odst. 1 písm. b) zákona č. 106/1999 Sb,. o svobodném přístupu k informacím, stížnost na vyřizování žádosti o informace. Navrhuji, aby nadřízený správní orgán postupem podle § 16a) odst. 6 písm. b) zákona č. 106/1999 Sb., o svobodném přístupu k informacím, povinnému subjektu přikázal, aby ve stanovené lhůtě, která nesmí být delší než 15 dnů ode dne doručení rozhodnutí nadřízeného orgánu, žádost vyřídil.
 
