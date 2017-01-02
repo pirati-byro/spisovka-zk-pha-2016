@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    "Zk Pha #3827/2016"
 your:
-   role:    
+   role:    Povinný subjekt
    name:    
       -     Hlavní město Praha
    address:
