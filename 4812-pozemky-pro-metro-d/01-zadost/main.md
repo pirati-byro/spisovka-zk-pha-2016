@@ -21,7 +21,7 @@ style:      letter
 
 Vážení
 
-žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o hlavním městě Praze a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
+žádám jako fyzická osoba – zastupitel hl. m. Prahy – v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, o poskytnutí následujících informací:
 
 * Seznam všech pozemků, které Dopravní podnik hlavního města Prahy a.s. nebo hlavní město Praha vykokupí v souladu s aktuálně platným projektem na výstavbu provozního úseku metra I. D. Žádám, aby uvedený seznam obsahoval u každého jednoho pozemku ze seznamu parcelní číslo a příslušné katastrální území. 
 
