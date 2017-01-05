@@ -21,7 +21,7 @@ style:      letter
 
 Vážení,
 
-v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu –  o poskytnutí následujících informací:
+v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím, a v souladu s § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám jako fyzická osoba – zastupitel hl. m. Prahy za Českou pirátskou stranu –  o poskytnutí následujících informací:
 
 * Veškeré v současné době platné plány v oblasti Public relations, které má Pražská energetika holding a.s. k dispozici.
 * Seznam všech osob, které se podílely na vzniku každého jednoho konkrétního plánu. 
