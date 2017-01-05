@@ -1,5 +1,5 @@
 ---
-title:      
+title:      Odpověď na dotaz ze dne 27. 9. 2016
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
@@ -7,16 +7,17 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#4001
+   sign:    Zk Pha \#4001
 your:
    role:    
    name:    
       -     "Mgr. Helena Ebrtová"
    address:
       -     Poděbradská 777, 9H 1
-      -     190 00, Praha 9
+      -     190 00, Praha 3
    sendby:  mail
-   style:   letter
+   note:   
+style:      letter
 ---
 
 Vážená paní Ebrtová,
