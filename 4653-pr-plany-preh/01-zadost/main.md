@@ -1,5 +1,5 @@
 ---
-title:      Žádost o informace podle zákona č. 106/1999 Sb.
+title:      Žádost o informace
 author:
    name:    Jakub Michálek
    phone:   +420 775 978 550
