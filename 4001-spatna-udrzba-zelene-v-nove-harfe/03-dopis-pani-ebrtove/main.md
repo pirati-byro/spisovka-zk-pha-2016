@@ -7,16 +7,16 @@ author:
    mail:    jakub.michalek@praha.eu
 our:
    name:    Zastupitelský klub Pirátů
-   sign:    ZK Pha \#4653
+   sign:    ZK Pha \#4001
 your:
    role:    
    name:    
-      -     Mgr. Helena Ebrtová,
+      -     "Mgr. Helena Ebrtová"
    address:
-      -     "Poděbradská 777, 9-H 1"
+      -     Poděbradská 777, 9H 1
       -     190 00, Praha 9
-sendby:     mail
-style:      letter
+   sendby:  mail
+   style:   letter
 ---
 
 Vážená paní Ebrtová,
@@ -38,7 +38,6 @@ S pozdravem
 ---
 signature: 
   - Mgr. et Mgr. Jakub Michálek
-  - nar. 6. 2. 1989
   - zastupitel hl. m. Prahy
 abbr:       jakub
 ...
