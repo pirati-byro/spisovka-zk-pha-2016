@@ -9,11 +9,11 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    ZK Pha \#4653
 your:
-   role:    Povinný subjekt
+   role:    
    name:    
       -     Mgr. Helena Ebrtová,
    address:
-      -     Poděbradská 777, 9-H 1
+      -     "Poděbradská 777, 9-H 1"
       -     190 00, Praha 9
 sendby:     mail
 style:      letter
