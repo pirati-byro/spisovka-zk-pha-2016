@@ -12,7 +12,7 @@ your:
    role:    
    name:    
       -     Vážená paní
-      -     "Mgr. Helena Ebrtová"
+      -     "Mgr. Helena Erbrtová"
    address:
       -     Poděbradská 777, 9H 1
       -     190 00, Praha 3
