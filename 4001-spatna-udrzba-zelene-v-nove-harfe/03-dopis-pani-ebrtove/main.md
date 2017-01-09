@@ -29,9 +29,11 @@ Dne 8. prosince 2016 jsem kontaktoval pana inženýra Morávka z odboru životn�
 
 Pan Jan Marek z Magistrátu hl. m. Prahy nás informoval, že skutečně probíhala jednání mezi Technickou správou komunikací a společností FINEP, která obytný soubor Nová Harfa vybudovala. Cílem jednání bylo květináče převzít do správy Technické správy komunikací. Investor se však s městskou společností nedokázal dohodnout; dle tvrzení Magistrátu nechtěl ustoupit z jednoho, blíže nespecifikovaného požadavku. Poté, co se květináče začaly rozpadat, je tak sám jako svůj majetek odvezl. 
 
-Jsem toho názoru, že se městská část Praha 9, resp. hlavní město Praha snaží za aktuální situaci věc snést odpovědnost na soukromého investora, aniž by připustila, že chyba spočívá v neschopnosti vyjednat převzetí květináčů do správy Technické správy komunikací.
+Jsem toho názoru, že se městská část Praha 9, resp. hlavní město Praha snaží za aktuální situaci věc svést odpovědnost na soukromého investora, aniž by připustila, že chyba spočívá v neschopnosti vyjednat převzetí květináčů do správy Technické správy komunikací.
 
 Co se týče převedení osvětlení, tak jsme od pana Bohumila Macha a Petra Konvalinky z Odboru správy majetku získali informaci, že uvedené osvětlení bylo nejprve ve vlastnictví společnosti Finep, která vybudovala obytný soubor Nová Harfa. Poté bylo převedeno v červnu 2016 do správy Hlavního města Prahy, a poté od jisté doby bylo převzato do správy soukromé společnosti Eltodo Citelum. Dle informací příslušných magistrátních úředníků je příslušnou v řešení této problematiky právě společnost Eltodo Citelum. Doporučili mi, abyste ste obrátila na ně přímo osobně. 
+
+\newpage
 
 V souvislosti s těmito uvedenými informacemi, které mám k dispozici, bych Vám doporučil se obrátit na Technickou správu komunikací s žádostí o instalaci nových květináčů/stromů, neboť se obávám, že původní uvedené již byly pravděpodobně společností Finep zničeny. 
 
