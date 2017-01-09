@@ -21,7 +21,7 @@ your:
 style:      letter
 ---
 
-Vážená paní Ebrtová,
+Vážená paní Erbrtová,
 
 dne 27. září 2016 jsem od Vás obdržel dopis, ve kterém jste zmínila problematiku údržby zeleně v objektu Nová Harfa, o kterou se nikdo nebyl schopen ze strany jak investora, tak i městské části, nebo Magistrátu hlavního města Prahy postarat. 
 
