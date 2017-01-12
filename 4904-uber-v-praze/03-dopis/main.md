@@ -40,4 +40,6 @@ signature:
   - Mgr. et Mgr. Jakub Michálek
   - zastupitel hl. m. Prahy
 abbr:       jakub
+attachments: 
+  - Odpověď na interpelaci Č.j. MHMP 12007/2017
 ...
