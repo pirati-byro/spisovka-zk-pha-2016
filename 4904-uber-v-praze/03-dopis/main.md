@@ -21,7 +21,7 @@ your:
 style:      letter
 ---
 
-Vážený pane ministře
+Vážený pane ministře,
 
 dne 15. prosince 2016 jsem interpeloval na zasedání pražského zastupitelstva problematiku právního postavení služby Uber a jejích uživatelů.
 
