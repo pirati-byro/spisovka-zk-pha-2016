@@ -23,9 +23,9 @@ Vážení,
 
 v souladu se zákonem č. 106/1999 Sb., o svobodném přístupu k informacím a v souladu s ust. § 51 odst. 3 písm. c) zákona č. 131/2000 Sb., o hlavním městě Praze, žádám o poskytnutí následujících informací: 
 
-* Seznam veškerých smluv, které společnost Želivská provozní a.s. uzavřela od 1. června 2016 až dosud. Uvedený seznam poskytněte jako tabulku (ve formátu .ods, .xls, .xlsx nebo .csv), kde každá smlouva bude mít na jednom řádku uvedeny následující údaje: předmět zakázky, druhá smluvní strana, cena zakázky. 
+* Seznam veškerých smluv, které společnost Želivská provozní a.s. uzavřela od 1. června 2016 až dosud. Uvedený seznam poskytněte jako tabulku (ve formátu .ods, .xls, .xlsx nebo .csv), kde každá smlouva bude mít na jednom řádku uvedeny minimálně následující údaje: předmět zakázky, druhá smluvní strana, cena zakázky. 
 
-Prosím o poskytnutí informace v elektronické podobě do datové schránky, případně na e-mailovou adresu adam.zabransky@pirati.cz. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Předem děkuji za Vaši vstřícnost.
+Prosím o poskytnutí informace v elektronické podobě na e-mailovou adresu adam.zabransky@pirati.cz. V případě nutnosti zaslání dopisu mi doručujte na adresu Zastupitelský klub Pirátů, Mariánské náměstí 2, 110 00 Praha 1. Předem děkuji za Vaši vstřícnost.
 
 S pozdravem
 
