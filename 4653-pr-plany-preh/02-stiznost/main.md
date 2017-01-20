@@ -26,7 +26,7 @@ dne 5. ledna 2017 jsem v souladu se zákonem č. 106/1999 Sb., (dále jen „Inf
 * Veškeré v současné době platné plány v oblasti Public relations, které má Pražská energetika holding a.s. k dispozici.
 * Seznam všech osob, které se podílely na vzniku každého jednoho konkrétního plánu. 
 
-Konstatuji, že jsem požadovanou informaci neobdržel v zákonné lhůtě 15 dní tak, jak InfZ stanoví. V souvislosti s tím proto podívám dle ust. § 16a odst. 1 písm. b) stížnost. Žádám, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) usnesením věc převzal a informaci poskytl sám.
+Konstatuji, že jsem požadovanou informaci neobdržel v zákonné lhůtě 15 dní tak, jak InfZ stanoví. V souvislosti s tím proto podívám dle ust. § 16a odst. 1 písm. b) stížnost. Žádám, aby nadřízený správní orgán postupem dle ust. § 16a odst. 6 písm. c) InfZ usnesením věc převzal a informaci poskytl sám.
 
 Žádám o poskytnutí informací v elektronické podobě, kdykoliv je to možné. Žádám o přímé poskytnutí informace, nikoliv jen odkaz na zveřejněný dokument. Ke komunikaci tímto dále zmocňuji svého asistenta Bc. Jana Loužka (nar. 9. 7. 1986 v Písku; bytem Vondroušova 1198, Praha 17). Žádám o doručování do datové schránky 4memzkm. Písemnosti, které není možné doručit do datové schránky, doručujte prosím na adresu Mariánské náměstí 2, Praha 1. Předem děkuji za Vaši vstřícnost.
 
