@@ -14,6 +14,8 @@ your:
    address:
       -     17 listopadu 909
       -     771 11, Olomouc
+   note:
+      -     k rukám JUDr. Rostislava Bajgera
 style:      letter
 ---
 
