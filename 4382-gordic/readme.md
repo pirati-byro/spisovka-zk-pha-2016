@@ -27,9 +27,12 @@ Obvykle se rozlišuje velký Ginis (ten využívá MHMP) a malý Ginis (ten vyu�
 |-------------:|-----------------------------------------------------------------------------------------|
 |         1993 | hospodářská soutěž v které vyhrává Gordic                                               |
 |         2010 | rozšíření na MČ                                                                         |
+|         2014 | usnesení zastupitelstva     |
 | 10.  9. 2015 | Ondřej Profant [navrhuje][navrh-zhmp] na ZHMP, ať se uloží termín (návrh neprošel)      |
+| 22.  9. 2015 | email Návrh postupu ve věci malého GINISu                                               |
 |  podzim 2015 | Jakub M. a Ondřej P. předkládají [materiál][maly-ginis] na Komisi ICT                   |
 |    léto 2016 | Brno uzavírá smlouvu na 4 roky s cenou 2M / ročně + hodinovky                           |
+|  7.  9. 2016 | JM upozorňuje na možnost kolektivního vyjednávání
 | 23.  3. 2016 | Rada schvaluje další JŘBÚ na Ginis                                                      |
 | 15. 11. 2016 | Rada dostává R-23892, který informuje o zavedení partnerské sítě                        |
 | 26.  1. 2017 | AK předkládá 500M zakázky ohledně Ginisu.                                               |

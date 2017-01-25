@@ -3,10 +3,16 @@
 
 | Tisk    | Forma     | Cena (Kč bez DPH)       | Cena za rok |     Popis                             |
 |---------|-----------|------------------------:|------------:|---------------------------------------|
-| R-24310 | Otevřeně  | 100 000 000 Kč / 2 roky |  50 000 000 | Integrační práce významných informační systémů magistrátu. Vše je napsáno zcela vágně, čili se jedná o bianco šek na jakoukoliv práci v oblasti informatiky. |
-| R-24311 | Partneři  | 100 000 000 Kč / 2 roky |  50 000 000 | Rozvoj IS Ginis, analytické práce, koncepční studie, metodiky, odbornější administrátorské zásahy. Bude soutěženo v rámci partnerské sítě Gordic. |
-| R-24312 | JŘBÚ      | 240 000 000 Kč / 4 roky |  60 000 000 | Přímé zadání zakázky (JŘBÚ) pro Gordic. Zakázka obsahuje činnosti nezbytné pro chod jako např. aktualizaci postupů dle platné legislativy. Avšak cenu i rozsah si určuje Gordic sám bez jakéhokoliv tržního srovnání.|
+| R-24310 | Otevřeně  | 100 000 000 Kč / 2 roky |  50 000 000 | **Integrační platforma**: Integrační práce významných informační systémů magistrátu. Vše je napsáno zcela vágně, čili se jedná o bianco šek na jakoukoliv práci v oblasti informatiky. |
+| R-24311 | Partneři  | 100 000 000 Kč / 2 roky |  50 000 000 | **Rozvoj IS Ginis**, analytické práce, koncepční studie, metodiky, odbornější administrátorské zásahy. Bude soutěženo v rámci partnerské sítě Gordic. |
+| R-24312 | JŘBÚ      | 240 000 000 Kč / 4 roky |  60 000 000 | **Maintainance**: Přímé zadání zakázky (JŘBÚ) pro Gordic. Zakázka obsahuje činnosti nezbytné pro chod jako např. aktualizaci postupů dle platné legislativy. Avšak cenu i rozsah si určuje Gordic sám bez jakéhokoliv tržního srovnání.|
 
+Cílem je zajistit maintainance než se stihne připravit otevřené výběrko: zpracování podkladů ZD (cca 1
+rok), soutěž (cca 1-2 roky), realizaci zakázky (cca 1-2 roky). Proto je JŘBÚ na 4 roky.
+
+> Modul enterprise má jen MVČR a MHMP -- R. Fialka
+
+> 4 možní dodavatelé: [Gordic][] (Ginis), SAP, [Asseco][] ([Helios][]), ... --- R. Fialka 
 
 ## Problémy
 
@@ -21,3 +27,7 @@
 **Konzervuje se stávající stav**: Piráti již 2 roky upozorňují na tento vendor lock-in, kdy je Praha závislá na dodavateli, který si sám určuje cenu. Praha dokonce dostala pokutu od ÚOHS a stejně se nic nestalo. Dokud bude město platit stamiliony firmě Gordic, je jisté, že se v této věci nic nezmění.
 
 **Cenu neprojednala komise Rady**: Podobně jako u agendy Smart Cities komise Rady pro ICT neprojednala navrhovanou cenu zakázek.
+
+[Asseco]: http://www.assecosolutions.com/cz/
+[Helios]: http://www.helios.eu/
+[Gordic]: https://www.gordic.cz/
