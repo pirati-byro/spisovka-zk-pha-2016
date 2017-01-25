@@ -31,16 +31,19 @@ Vypisují jako JŘBÚ s předpokládanou cenou 32.000.000,- Kč bez DPH. Teoreti
 
 ### Trvání
 
-| Části plnění           | Zahájení plnění | Ukončení (splnění) |
-|------------------------|-------------------------------------------------|
-| Služby maintenance a řízení bezpečnosti | Dnem nabytí účinnosti Smlouvy. | doba neurčitá |
+| Části plnění           | Zahájení plnění                                 | Ukončení (splnění)  |
+|------------------------|-------------------------------------------------|---------------------|
+| Služby maintenance a řízení bezpečnosti | Dnem nabytí účinnosti Smlouvy. | doba neurčitá       |
 | Služby podpory provozu |  Dnem nabytí účinnosti Smlouvy, a to vždy pouze dle potřeb Objednatele, výlučně na základě příslušných objednávek Objednatele. Smlouva nezakládá povinnost Objednatele odebrat jakékoliv závazné množství služeb podpory provozu. | doba neurčitá |
+
 
 ### Moduly
 
+Seznam modulů, které má Brno.
+
 <table border="0" cellspacing="0" cellpadding="0" >
   <colgroup><col width="238"/><col width="632"/><col width="99"/></colgroup>
-  <tr><td><p>Agenda</p></td><td><p>Název modulu GINIS Standard</p></td><td> </td></tr>
+  <tr><td><p>Agenda</p></td><td><p>Název modulu GINIS Standard</p></td><td>Praha</td></tr>
   <tr><td rowspan="13"><p>GINIS EKO - Ekonomika</p></td><td><p>UCT - Pořizovač účetních dokladů</p></td><td> </td></tr>
     <tr><td><p>UCR - Účetní a rozpočtové výstupy</p></td><td> </td></tr>
     <tr><td><p>ROZ - Pořizovač rozpočtových dokladů,</p></td><td> </td></tr>
@@ -68,7 +71,6 @@ Vypisují jako JŘBÚ s předpokládanou cenou 32.000.000,- Kč bez DPH. Teoreti
   <tr><td><p>Řídící kontrola</p></td><td><p>Řídící kontrola</p></td><td> </td></tr>
   <tr><td><p>Datové sklady</p></td><td><p>DWH - Datový sklad</p></td><td> </td></tr>
   <tr><td><p>Řízení bezpečnostních rizik</p></td><td><p>Aplikace metod pro řízení rizik</p></td><td> </td></tr>
-  <tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td></tr>
 </table>
 
 [Brno]: https://cs.wikipedia.org/wiki/Brno
