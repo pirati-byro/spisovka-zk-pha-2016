@@ -12,12 +12,12 @@ Brno se pokusilo migrovat na SAP. To se mu nepovedlo a vyplýtvalo na to ~200M K
 | JMK       | 1 175 023 |      |   5 892 973 000  |                   -  |                   -   |
 | Poměr P/B |    ~ 3.3x |~ 2x  |          ~ 4.5x  |                   1  |                   -   |
 
-| Roční | Fixní      | Rozvoj     | Celkem      |
-|-------|-----------:|-----------:|------------:|
-| Praha | 60 000 000 | 50 000 000 | 110 000 000 |
-| Brno  |  2 260 000 |  5 740 000 |   8 000 000 |
+| Roční | Maintenance etc. | Rozvoj     | Celkem      |
+|-------|-----------------:|-----------:|------------:|
+| Praha |       60 000 000 | 25 000 000 |  85 000 000 |
+| Brno  |        2 260 000 |  5 740 000 |   8 000 000 |
 
-Čili Brno platí 14x méně (přesn 13.75).
+Čili Brno platí 11x méně (přesn 10.6).
 
 ## Podmínky
 
