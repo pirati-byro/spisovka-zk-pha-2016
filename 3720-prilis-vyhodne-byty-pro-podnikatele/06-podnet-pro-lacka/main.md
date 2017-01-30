@@ -11,7 +11,7 @@ our:
 your:
    role:    
    name:    
-      -     Hlavní město Praha
+      -     Rada hlavního města Prahy
    address:
       -     Mariánské náměstí 2,
       -     110 00, Praha 1
