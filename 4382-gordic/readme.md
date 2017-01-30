@@ -27,16 +27,34 @@ Obvykle se rozlišuje velký Ginis (ten využívá MHMP) a malý Ginis (ten vyu�
 |-------------:|-----------------------------------------------------------------------------------------|
 |         1993 | hospodářská soutěž v které vyhrává Gordic                                               |
 |         2010 | rozšíření na MČ                                                                         |
+|  podzim 2013 | 5 mil Kč pokuta od ÚOHS za Ginis                                                        |
+| 17.  6. 2014 | R-1437 usnesení rady k otevřené soutěži                                                 |
 | 10.  9. 2015 | Ondřej Profant [navrhuje][navrh-zhmp] na ZHMP, ať se uloží termín (návrh neprošel)      |
+| 22.  9. 2015 | email Návrh postupu ve věci malého GINISu                                               |
 |  podzim 2015 | Jakub M. a Ondřej P. předkládají [materiál][maly-ginis] na Komisi ICT                   |
-|    léto 2016 | Brno uzavírá smlouvu na 4 roky s cenou 2M / ročně + hodinovky                           |
+|    léto 2016 | Brno uzavírá smlouvu na 4 roky s cenou 2M / ročně + rozvoj (hodinovky)                  |
+|  7.  9. 2016 | JM upozorňuje na možnost kolektivního vyjednávání                                       |
 | 23.  3. 2016 | Rada schvaluje další JŘBÚ na Ginis                                                      |
 | 15. 11. 2016 | Rada dostává R-23892, který informuje o zavedení partnerské sítě                        |
-| 26.  1. 2017 | AK předkládá 500M zakázky ohledně Ginisu.                                               |
+| 26.  1. 2017 | AK předkládá 500M zakázky ohledně Ginisu, návrhy prošel, je v nich i otevřená soutěž    |
 
+# Struktura zakázek
+
+| Zadavatel                                         |              Kč |       
+|---------------------------------------------------|----------------:|
+| Ministerstvo obrany, Sekce vyzbrojování a akvizic |  	1 138 085 542 |
+| HLAVNÍ MĚSTO PRAHA                                |   	823 115 988 |
+| Ministerstvo vnitra, Hasiči                       |    	214 270 082 |
+
+[Zdroj][zakázky]
+
+1. Praha
+2. Ministerstvo obrany
+3. Regionální rada regionu soudržnosti Moravskoslezsko
 
 [navrh-zhmp]: https://github.com/pirati-cz/KlubPraha/blob/bcc6a3f6cf4664a97d47355717e52cb678493a51/spisy/2015/137-zhmp-jes/main.md
 [20m-prispevkovky]: https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
 [stanovisko-k-rozpoctu-2016]: https://praha.pirati.cz/rozpocet.html
 [maly-ginis]: https://github.com/pirati-cz/webpraha/blob/gh-pages/assets/static/maly-ginis-aktulizovano.pdf
 [teze]: https://praha.pirati.cz/rada-digitalni-strategie.html
+[zakázky]: http://www.vsechnyzakazky.cz/cs/supplier/detail/396115/GORDIC-spol-s-ro

@@ -1,6 +1,8 @@
 
 # Gordic v Brně
 
+Brno se pokusilo migrovat na SAP. To se mu nepovedlo a vyplýtvalo na to ~200M Kč.
+
 ## Srovnání Brna a Prahy
 
 |           | Obyvatel  | # MČ | Přijmy 2017 v Kč | # faktur 2016 (město)| # faktur 2016 (s MČ)  |
@@ -9,6 +11,13 @@
 | [Brno][]  |   377 028 |  29  |  10 346 438 000  |              15 215  |              37 899   |
 | JMK       | 1 175 023 |      |   5 892 973 000  |                   -  |                   -   |
 | Poměr P/B |    ~ 3.3x |~ 2x  |          ~ 4.5x  |                   1  |                   -   |
+
+| Roční | Maintenance etc. | Rozvoj     | Celkem      |
+|-------|-----------------:|-----------:|------------:|
+| Praha |       60 000 000 | 25 000 000 |  85 000 000 |
+| Brno  |        2 260 000 |  5 740 000 |   8 000 000 |
+
+Čili Brno platí 11x méně (přesn 10.6).
 
 ## Podmínky
 
@@ -71,6 +80,10 @@ Seznam modulů, které má Brno.
   <tr><td><p>Datové sklady</p></td><td><p>DWH - Datový sklad</p></td><td> </td></tr>
   <tr><td><p>Řízení bezpečnostních rizik</p></td><td><p>Aplikace metod pro řízení rizik</p></td><td> </td></tr>
 </table>
+
+### Rozsah
+
+Magistrát, MČ a městská policie
 
 [Brno]: https://cs.wikipedia.org/wiki/Brno
 [Praha]: https://cs.wikipedia.org/wiki/Praha
