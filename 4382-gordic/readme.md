@@ -52,6 +52,16 @@ Obvykle se rozlišuje velký Ginis (ten využívá MHMP) a malý Ginis (ten vyu�
 2. Ministerstvo obrany
 3. Regionální rada regionu soudržnosti Moravskoslezsko
 
+## MVČR 
+
+Dle infožádosti vynaložilo MVČR za produkty a služby Gordicu:
+
+| Rok  | Částka (Kč)   |
+|------|--------------:|
+| 2014 | 22 826 005,72 |
+| 2015 | 20 150 258,41 |
+| 2016 | 22 452 431,84 |
+
 [navrh-zhmp]: https://github.com/pirati-cz/KlubPraha/blob/bcc6a3f6cf4664a97d47355717e52cb678493a51/spisy/2015/137-zhmp-jes/main.md
 [20m-prispevkovky]: https://praha.pirati.cz/dvacet-milionu-pro-gordic.html
 [stanovisko-k-rozpoctu-2016]: https://praha.pirati.cz/rozpocet.html
