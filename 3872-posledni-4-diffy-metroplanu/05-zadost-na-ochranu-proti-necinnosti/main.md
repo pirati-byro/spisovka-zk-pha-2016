@@ -9,7 +9,7 @@ our:
    name:    Zastupitelský klub Pirátů
    sign:    "Zk Pha #3872"
 your:
-   role:    Povinný subjekt
+   role:    Nadřízený správní orgán
    name:    
       -     Hlavní město Praha
    address:
